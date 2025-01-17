@@ -1,0 +1,42 @@
+.App {
+  
+  
+  
+    color: #555;
+    max-width: 480px;
+    margin: 60px auto;
+  
+  
+
+}
+body{
+  background-color: #A6CDC6;
+}
+
+.App label span {
+  display: block;
+  margin: 30px 0 10px;
+}
+
+.App button {
+margin-left: 8px;
+cursor: pointer;
+border-style: none;
+background-color: #fff;
+padding: 3px;
+border-radius: 3px;
+
+}
+
+button:hover{
+  background-color: bisque;
+  border-style: none;
+}
+
+/* color: #fff;
+    text-decoration: none;
+    margin-left: 40px;
+    padding: 8px;
+    border: 1px solid #fff;
+    border-radius: 4px;
+ */
